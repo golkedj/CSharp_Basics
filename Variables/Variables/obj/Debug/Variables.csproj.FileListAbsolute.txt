@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Courses\CSharp_Basics\Variables\Variables\bin\Debug\Variables.exe
+C:\Courses\CSharp_Basics\Variables\Variables\bin\Debug\Variables.pdb
+C:\Courses\CSharp_Basics\Variables\Variables\obj\Debug\Variables.exe
+C:\Courses\CSharp_Basics\Variables\Variables\obj\Debug\Variables.pdb
