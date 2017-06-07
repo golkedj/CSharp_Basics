@@ -1,0 +1,12 @@
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Courses\C#_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Courses\CSharp_Basics\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
