@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Courses\CSharp_Basics\Operators\Operators\bin\Debug\Operators.exe
+C:\Courses\CSharp_Basics\Operators\Operators\bin\Debug\Operators.pdb
+C:\Courses\CSharp_Basics\Operators\Operators\obj\Debug\Operators.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\Operators\Operators\obj\Debug\Operators.exe
+C:\Courses\CSharp_Basics\Operators\Operators\obj\Debug\Operators.pdb
