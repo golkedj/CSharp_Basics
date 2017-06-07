@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Courses\CSharp_Basics\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
