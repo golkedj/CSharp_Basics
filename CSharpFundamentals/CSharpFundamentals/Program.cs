@@ -2,32 +2,22 @@
 
 namespace CSharpFundamentals
 {
-    public class Person
-    {
-        public int Age;
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
-            var number = 1;
-            Increment(number);
-            Console.WriteLine(number);
+            var random = new Random();
 
-            var person = new Person() { Age = 20 };
-            MakeOld(person);
-            Console.WriteLine(person.Age);
-        }
+            const int passwordLength = 10;
+            var buffer = new char[passwordLength];
+            for (var i = 0; i < passwordLength; i++)
+            {
+                buffer[i] = (char)('a' + random.Next(0, 26));
+            }
 
-        public static void Increment(int number)
-        {
-            number += 10;
-        }
-
-        public static void MakeOld(Person person)
-        {
-            person.Age += 10;
+            var password = new string(buffer);
+            
+            Console.WriteLine(password);
         }
     }
 }
