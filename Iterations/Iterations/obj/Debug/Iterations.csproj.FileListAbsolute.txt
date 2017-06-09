@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Courses\CSharp_Basics\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Courses\CSharp_Basics\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Courses\CSharp_Basics\Iterations\Iterations\obj\Debug\Iterations.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Courses\CSharp_Basics\Iterations\Iterations\obj\Debug\Iterations.pdb
