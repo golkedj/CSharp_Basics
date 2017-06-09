@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\obj\Debug\Conditionals.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Courses\CSharp_Basics\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
