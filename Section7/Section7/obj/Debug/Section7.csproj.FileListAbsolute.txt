@@ -1,0 +1,6 @@
+C:\Courses\CSharp_Basics\Section7\Section7\bin\Debug\Section7.exe.config
+C:\Courses\CSharp_Basics\Section7\Section7\bin\Debug\Section7.exe
+C:\Courses\CSharp_Basics\Section7\Section7\bin\Debug\Section7.pdb
+C:\Courses\CSharp_Basics\Section7\Section7\obj\Debug\Section7.csprojResolveAssemblyReference.cache
+C:\Courses\CSharp_Basics\Section7\Section7\obj\Debug\Section7.exe
+C:\Courses\CSharp_Basics\Section7\Section7\obj\Debug\Section7.pdb
