@@ -38,10 +38,26 @@ namespace Section8
             Console.WriteLine(price.ToString("C0"));*/
 
             /* Lecture 64 */
-            var sentence = "This is going to be a really really really really really long text.";
+            /*var sentence = "This is going to be a really really really really really long text.";
             var summary = StringUtility.SummerizeText(sentence, 25);
-            Console.WriteLine(summary);
-            
+            Console.WriteLine(summary);*/
+
+            /* Lecture 65 */
+            var builder = new StringBuilder("Hello World");
+
+            builder
+                .Append('-', 10)
+                .AppendLine()
+                .Append("Header")
+                .AppendLine()
+                .Append('-', 10)
+                .Replace('-', '+')
+                .Remove(0, 10)
+                .Insert(0, new string('-', 10));
+
+            Console.WriteLine(builder);
+
+            Console.WriteLine("First Char: " + builder[0]);
         }
     }
 }
