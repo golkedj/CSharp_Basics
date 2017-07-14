@@ -10,7 +10,8 @@ namespace Section8
     {
         static void Main(string[] args)
         {
-            var fullName = "Dave Golke ";
+            /* Lecture 63 */
+            /*var fullName = "Dave Golke ";
             Console.WriteLine("Trim: '{0}'", fullName.Trim());
             Console.WriteLine("ToUpper: '{0}'", fullName.Trim().ToUpper());
 
@@ -34,7 +35,13 @@ namespace Section8
             Console.WriteLine(age);
 
             float price = 29.95f;
-            Console.WriteLine(price.ToString("C0"));
+            Console.WriteLine(price.ToString("C0"));*/
+
+            /* Lecture 64 */
+            var sentence = "This is going to be a really really really really really long text.";
+            var summary = StringUtility.SummerizeText(sentence, 25);
+            Console.WriteLine(summary);
+            
         }
     }
 }
