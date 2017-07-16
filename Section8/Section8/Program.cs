@@ -43,7 +43,7 @@ namespace Section8
             Console.WriteLine(summary);*/
 
             /* Lecture 65 */
-            var builder = new StringBuilder("Hello World");
+            /*var builder = new StringBuilder("Hello World");
 
             builder
                 .Append('-', 10)
@@ -57,7 +57,14 @@ namespace Section8
 
             Console.WriteLine(builder);
 
-            Console.WriteLine("First Char: " + builder[0]);
+            Console.WriteLine("First Char: " + builder[0]);*/
+
+            /* Lecture 67 */
+            Exercises.Exercise1();
+            Exercises.Exercise2();
+            Exercises.Exercise3();
+            Exercises.Exercise4();
+            Exercises.Exercise5();
         }
     }
 }
